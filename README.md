@@ -7,7 +7,8 @@ https://github.com/Mr-QB/Quadcopter-simulation-with-Webots.git```
     * Download Webots from [here](https://cyberbotics.com/)
     * Open Webots, click ```file```, select ```open world```,find the folder you just downloaded, select ```/Webots/worlds/FollowWaypointsDemo.wbt```.
 ## Control algorithm diagram:
-![Control algorithm diagram](Image/image1.png)
+![Image](Image/image_1.png)
+
 
 
 ## Demo
