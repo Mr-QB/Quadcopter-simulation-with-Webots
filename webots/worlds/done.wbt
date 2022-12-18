@@ -1,0 +1,35 @@
+#VRML_SIM R2023a utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023a/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023a/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023a/projects/objects/floors/protos/RectangleArena.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023a/projects/robots/dji/mavic/protos/Mavic2Pro.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.4425650898874657 0.49104027825237606 0.7503436455029979 1.7530704260421788
+  position -0.4982839798327611 -5.307583202403593 8.725916637922547
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+}
+Mavic2Pro {
+  hidden position_0_0 -5.509890723403075e-09
+  hidden linearVelocity_0 1.8404182171938472e-05 -2.5533657604319152e-09 0.0002115967249665723
+  hidden angularVelocity_0 1.1973521189813638e-07 0.0009007055031652574 2.2723209411122042e-09
+  hidden position_5_0 -1.291898664483003e-08
+  hidden linearVelocity_5 7.831492636923839e-06 -6.1655101668098906e-09 8.889790230321355e-05
+  hidden angularVelocity_5 1.2323859388277034e-07 0.0009007053947584832 -4.8705586237324014e-08
+  hidden position_6_0 -4.792240405997496e-09
+  hidden linearVelocity_6 3.780094569971039e-06 -5.474273272391536e-09 9.17665497847747e-05
+  hidden angularVelocity_6 1.2303788815106625e-07 0.0009005688609701732 -4.878634506201874e-08
+  hidden linearVelocity_7 -4.486091617250932e-06 -4.543059621006088e-09 9.302386617479455e-05
+  hidden angularVelocity_7 7.54533447437725e-08 0.0009005687571189765 -5.213615677733706e-08
+  translation -0.005305229744467524 -2.3476561410031268e-07 0.06555512298530217
+  rotation 6.468747880073429e-05 -0.9999999973324969 3.391955561677419e-05 0.07022699494890887
+  controller "<none>"
+}
